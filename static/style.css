@@ -1,0 +1,32 @@
+h1 {
+    background: black;
+    color: white;
+    margin-left: 200px;
+    font-size: 50px;
+  }
+
+img {
+    width: 20%;
+    height: 40%;
+    border: 5px solid;
+    padding: 5px;
+    border-radius: 30%; 
+  }
+  
+.first {
+    font-size: 40px;
+    color: darkblue;
+  }
+
+.second {
+    font-size: 18px;
+    color: black;
+    margin-left: 20px;
+  }
+
+.third {
+    font-size: 18px;
+    color: black;
+    margin-left: 20px;
+    }
+  
